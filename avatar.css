@@ -1,0 +1,9 @@
+
+
+  .avatar{
+   display: flex;
+   margin: 10px;
+    box-shadow: 5px 5px 8px grey;
+    filter: brightness(129%); 
+
+  }

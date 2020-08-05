@@ -1,0 +1,48 @@
+
+.btn-flat {
+    background-color: rgb(51, 170, 209);
+    color: white;
+    padding: 8px 24px;
+
+}
+
+.btn-flat:hover {
+    background-color: red;
+    color: white;
+}
+
+.btn-flat1{
+    position: relative;
+    left: 195px;
+    color: white;
+    width: 200px;
+    background-color: #333;
+    text-align: center;
+    padding: 8px 36px;
+    margin: 15px;
+    
+}
+
+
+.btn-flat1:hover {
+    background-color:grey;
+    color: white;
+}
+
+
+.btn-flat2{
+    position: relative;
+    left: 195px;
+    color: white;
+    width: 200px;
+    background-color: #333;
+    text-align: center;
+    padding: 8px 36px;
+    margin: 15px;
+    
+}
+
+.btn-flat2:hover {
+    background-color:grey;
+    color: white;
+}
