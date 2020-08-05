@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* Components design */
+@import url("avatar.css");
+@import url("button.css");
+@import url("card.css");
+@import url("banner.css");
+@import url("sections.css");
+
+
+/*----- Fonts ----- */
+body{
+font-family: "open sans", "helvetica", "sans-serif";
+
+background: linear-gradient(to left, rgb(155, 155, 189), rgb(55, 55, 150) 20%, rgb(51, 170, 209) 75%, #eee);
+
+
+
+}
+
+
+h1, h2, h3 {
+    font-family: 'Permanent Marker', cursive;
+text-decoration: underline;
+padding: 20px;
+}
+
+.barra{
+    background-color: black;
+}
+
+.text{
+    font-size: 16px;
+    font-weight: 900;
+margin: 20px;
+text-align: justify;
+width: 75%;
+text-shadow: lightblue 5px 8px 5px;
+}
+
+footer {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 10px;
+    
+}
+
+.portrait{
+    height: 280px;
+    background-position: center;
+    position: relative;
+    left: 200px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+
+.portrait1{
+    height: 280px;
+    background-position: center;
+    position: relative;
+    left: 200px;
+    border-radius: 5px;
+    border: 2px solid black;
+    filter: sepia(75%) grayscale(100%);
+}
+
+.quote{
+    position: relative;
+    bottom: 50px;
+    
+}
+.line{
+    background: linear-gradient(to top,  rgb(155, 182, 189) 50%, rgb(103, 52, 145) 5%);
+    color: lightgrey;
+    padding-left: 15px;
+    font-family: cursive;
+    
+}
+
+
+.title{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    text-shadow: 5px 8px 3px white;
+}
+
+
+    .navbar{
+    display: flex;
+    background-color: rgb(218, 204, 204) ;
+    justify-content: space-around;
+    color: white;
+    
+    
+}
+
+
+.follow{
+    margin: 30px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: medium;
+    font-weight: bold;
+    position: relative;
+    bottom: 133px;
+    left: 325px;
+    font-size: 15px;    
+}
+
+
+.divisor{
+    background-color: indigo;
+    margin-top: 30px;
+}
+
+
+#title{
+    font-family: "open sans", "helvetica", "sans-serif";
+    color: lightgray;
+    font-size: 50px;
+}

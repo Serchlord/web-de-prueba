@@ -1,0 +1,15 @@
+.card-category {
+    height: 180px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    border-radius: 6px;
+    font-size: 24px;
+    box-shadow: 2px 2px 3px #aeaeae;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 3px #aeaeae;
+    padding: 15px 0px;
+}
+
